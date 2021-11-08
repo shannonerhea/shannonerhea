@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shannonerhea
 - 👀 I’m interested in cats , coffee and coding
-- 🌱 I’m currently learning JS and CSS
+- 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on cool projects!
 - 📫 You can reach me at shannone426@gmail.com
 
