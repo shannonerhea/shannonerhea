@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shannonerhea
+- 👋 Hi, I’m Shannone!
 - 👀 I’m interested in cats , coffee and coding
 - 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on cool projects!
